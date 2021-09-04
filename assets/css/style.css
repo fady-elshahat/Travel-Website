@@ -838,7 +838,7 @@ header{
     }
     .nav-list {
         flex-direction: row;
-        column-gap: 4rem;
+        column-gap: 2rem;
     }
     .nav-toggle, .nav-close {
         display: none;
